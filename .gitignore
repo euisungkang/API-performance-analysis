@@ -3,3 +3,6 @@ REST/__pycache__
 
 NOTES.md
 model.json
+
+/REST/java/*
+!/REST/java/spring
